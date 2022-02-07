@@ -9,6 +9,7 @@ I'm 100% sure I'll be in the Apple ecosystem for the rest of my life. Thus, here
 
 ## Prompting
 - [WhatsApp](https://web.whatsapp.com)
+- [Discord](https://discord.com)
 
 ## Project Management
 - [Notion](https://www.notion.so/desktop)
