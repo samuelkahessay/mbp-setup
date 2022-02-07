@@ -1,5 +1,5 @@
 # 🍎 MacBook Pro Setup
-I'm 100% sure I'll be in the Apple ecosystem for the rest of my life. Thus, here are the apps, programs, etc. I download when I get a new MacBook Pro.
+I'm 100% sure I'll be in the Apple ecosystem for the rest of my life. Thus, here are the apps, programs, etc. I download when I set up a new MacBook Pro.
 
 ## Window Management
 - [Magnet](https://magnet.crowdcafe.com)
