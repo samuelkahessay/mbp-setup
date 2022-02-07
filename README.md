@@ -10,6 +10,7 @@ I'm 100% sure I'll be in the Apple ecosystem for the rest of my life. Thus, here
 ## Prompting
 - [WhatsApp](https://web.whatsapp.com)
 - [Discord](https://discord.com)
+- [Slack](https://apps.apple.com/app/slack/id803453959)
 
 ## Project Management
 - [Notion](https://www.notion.so/desktop)
